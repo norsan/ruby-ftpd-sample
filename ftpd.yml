@@ -1,0 +1,5 @@
+---
+dputs: true
+rootdir: "C:/tmp"
+users:
+  foo: @3tXEuaZOhQLc # bar
